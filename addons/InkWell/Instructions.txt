@@ -1,0 +1,13 @@
+Thanks for downloading my Godot plugin!
+
+Instructions:
+
+1. Place the "InkWell" folder into "'project'/addons"
+
+2. Activate the plugin in "project/project_settings/plugins" on the top left
+
+3. Once activated, you will see the InkWell dock in the top right, click on the dock
+to read for further instructions on how to use it.
+
+- Moonsdontburn - https://www.paypal.me/Moonsdontburn - 
+Have a great day!
